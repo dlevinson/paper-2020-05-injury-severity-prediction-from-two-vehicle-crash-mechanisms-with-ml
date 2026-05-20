@@ -1,0 +1,6 @@
+label,url,role
+Article DOI,https://doi.org/10.1109/OJITS.2020.3033523,published_paper
+NHTSA Crashworthiness Data System overview,https://www.nhtsa.gov/es/national-automotive-sampling-system/crashworthiness-data-system,public_source_data
+NHTSA National Automotive Sampling System overview,https://www.nhtsa.gov/crash-data-systems/national-automotive-sampling-system,public_source_data
+NHTSA Crash Viewer NASS CDS data download,https://crashviewer.nhtsa.dot.gov/crashviewer,public_source_data_download
+Data.gov NASS-CDS catalog record,https://catalog.data.gov/dataset/national-automotive-sampling-system-crashworthiness-data-system-nass-cds-nass-cds-multiyea,public_source_data_catalog
