@@ -1,5 +1,9 @@
 # Injury Severity Prediction From Two-Vehicle Crash Mechanisms With ML
 
+## Contribution
+
+This paper develops machine-learning models for predicting injury severity in two-vehicle crashes from crash mechanism, vehicle, occupant, and impact characteristics. Using NASS/CDS records, it compares feature selection, imputation, individual classifiers, and ensembles to improve prediction of maximum injury severity from complex collision data.
+
 This package is a public-ready archival package for the available local materials associated with Ji and Levinson (2020), IEEE Open Journal of Intelligent Transportation Systems, DOI: https://doi.org/10.1109/OJITS.2020.3033523.
 
 ## Contents
